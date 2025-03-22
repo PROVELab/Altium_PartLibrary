@@ -1,0 +1,10 @@
+blew2004@gmail.com
+fUc432raj_
+C:\Users\blew2\Downloads
+C:\Users\blew2\Documents\AltiumLL\SamacSys.SchLib
+C:\Users\blew2\Documents\AltiumLL\SamacSys.PcbLib
+0
+
+80
+True
+True
